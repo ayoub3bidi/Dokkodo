@@ -3061,7 +3061,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 /* -- Disable elastic scrolling/bounce:
 webslides.js will add .ws-ready automatically. Don't worry :) -- */
 body {
-  background-color: #f7f9fb;
+  background-color: #FFFFFF;
   color: #333; }
 
 :focus {
@@ -3102,7 +3102,7 @@ hr:after {
 
 abbr,
 acronym {
-  border-bottom: 1px dotted #f7f9fb; }
+  border-bottom: 1px dotted #FFFFFF; }
 
 mark,
 ins {
@@ -3146,7 +3146,7 @@ Slides - Backgrounds <section class="bg-primary">
   background-color: #67d; }
 
 .bg-light {
-  background-color: #f7f9fb; }
+  background-color: #FFFFFF; }
 
 .bg-black {
   background-color: #111; }
@@ -3243,8 +3243,8 @@ Slides - Backgrounds <section class="bg-primary">
 
 /*Gray Gradient (horizontal)*/
 .bg-gradient-gray {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #f7f9fb), to(#dee2e6));
-  background: linear-gradient(90deg, #f7f9fb 0, #dee2e6 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0, #FFFFFF), to(#dee2e6));
+  background: linear-gradient(90deg, #FFFFFF 0, #dee2e6 100%);
   color: #333;
   text-shadow: none; }
 
@@ -3748,7 +3748,7 @@ Table of Contents
 .toc,
 .toc ol > li:before,
 .chapter {
-  background-color: #f7f9fb; }
+  background-color: #FFFFFF; }
 
 .toc li .toc-page:before {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.9); }
@@ -3777,7 +3777,7 @@ Slides Index
   background: rgba(0, 10, 40, 0.8); }
 
 #webslides-zoomed .column > .wrap-zoom {
-  background-color: #f7f9fb;
+  background-color: #FFFFFF;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.04);
           box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.04);
   color: #333; }
